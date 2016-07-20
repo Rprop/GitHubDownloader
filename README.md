@@ -1,4 +1,4 @@
-# GitHubDownloader
+﻿# GitHubDownloader
 A C++ example shows how to download a single folder or directory from a GitHub repository.
 
 # Feature
