@@ -1,7 +1,7 @@
 # Optimal Solution
-e.g. target: https://github.com/dotnet/corefx/tree/master/src/Native/Windows/clrcompression/zlib-intel/
-trunk_url: https://github.com/dotnet/corefx/trunk/src/Native/Windows/clrcompression/zlib-intel/
-trunk_url(with branch): https://github.com/dotnet/corefx/branches/master/src/Native/Windows/clrcompression/zlib-intel/
+e.g. target: https://github.com/dotnet/corefx/tree/master/src/Native/Windows/clrcompression/zlib-intel/   
+trunk_url: https://github.com/dotnet/corefx/trunk/src/Native/Windows/clrcompression/zlib-intel/   
+trunk_url(with branch): https://github.com/dotnet/corefx/branches/master/src/Native/Windows/clrcompression/zlib-intel/   
 svn checkout trunk_url
 
 # GitHubDownloader
